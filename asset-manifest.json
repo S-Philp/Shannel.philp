@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/S-Philp-Portfolio.github.io/static/css/main.f218c33a.chunk.css",
+    "main.js": "/S-Philp-Portfolio.github.io/static/js/main.af07ec7e.chunk.js",
+    "main.js.map": "/S-Philp-Portfolio.github.io/static/js/main.af07ec7e.chunk.js.map",
+    "runtime-main.js": "/S-Philp-Portfolio.github.io/static/js/runtime-main.7bebfbf1.js",
+    "runtime-main.js.map": "/S-Philp-Portfolio.github.io/static/js/runtime-main.7bebfbf1.js.map",
+    "static/js/2.fc908433.chunk.js": "/S-Philp-Portfolio.github.io/static/js/2.fc908433.chunk.js",
+    "static/js/2.fc908433.chunk.js.map": "/S-Philp-Portfolio.github.io/static/js/2.fc908433.chunk.js.map",
+    "index.html": "/S-Philp-Portfolio.github.io/index.html",
+    "precache-manifest.c4aa898d6058763530737488663b98ef.js": "/S-Philp-Portfolio.github.io/precache-manifest.c4aa898d6058763530737488663b98ef.js",
+    "service-worker.js": "/S-Philp-Portfolio.github.io/service-worker.js",
+    "static/css/main.f218c33a.chunk.css.map": "/S-Philp-Portfolio.github.io/static/css/main.f218c33a.chunk.css.map",
+    "static/js/2.fc908433.chunk.js.LICENSE.txt": "/S-Philp-Portfolio.github.io/static/js/2.fc908433.chunk.js.LICENSE.txt",
+    "static/media/Me_copy.jpg": "/S-Philp-Portfolio.github.io/static/media/Me_copy.b0958fbf.jpg",
+    "static/media/resume.pdf": "/S-Philp-Portfolio.github.io/static/media/resume.2c7147ff.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bebfbf1.js",
+    "static/js/2.fc908433.chunk.js",
+    "static/css/main.f218c33a.chunk.css",
+    "static/js/main.af07ec7e.chunk.js"
+  ]
+}
