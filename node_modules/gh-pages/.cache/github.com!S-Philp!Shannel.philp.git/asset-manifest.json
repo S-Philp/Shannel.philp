@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shannel.philp/static/css/main.f218c33a.chunk.css",
+    "main.js": "/Shannel.philp/static/js/main.33f8f113.chunk.js",
+    "main.js.map": "/Shannel.philp/static/js/main.33f8f113.chunk.js.map",
+    "runtime-main.js": "/Shannel.philp/static/js/runtime-main.f51ef8f6.js",
+    "runtime-main.js.map": "/Shannel.philp/static/js/runtime-main.f51ef8f6.js.map",
+    "static/js/2.fc908433.chunk.js": "/Shannel.philp/static/js/2.fc908433.chunk.js",
+    "static/js/2.fc908433.chunk.js.map": "/Shannel.philp/static/js/2.fc908433.chunk.js.map",
+    "index.html": "/Shannel.philp/index.html",
+    "precache-manifest.d447fd28267f22e679632776ff141a14.js": "/Shannel.philp/precache-manifest.d447fd28267f22e679632776ff141a14.js",
+    "service-worker.js": "/Shannel.philp/service-worker.js",
+    "static/css/main.f218c33a.chunk.css.map": "/Shannel.philp/static/css/main.f218c33a.chunk.css.map",
+    "static/js/2.fc908433.chunk.js.LICENSE.txt": "/Shannel.philp/static/js/2.fc908433.chunk.js.LICENSE.txt",
+    "static/media/Me_copy.jpg": "/Shannel.philp/static/media/Me_copy.b0958fbf.jpg",
+    "static/media/resume.pdf": "/Shannel.philp/static/media/resume.94eee7a9.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f51ef8f6.js",
+    "static/js/2.fc908433.chunk.js",
+    "static/css/main.f218c33a.chunk.css",
+    "static/js/main.33f8f113.chunk.js"
+  ]
+}

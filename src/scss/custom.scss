@@ -1,0 +1,14 @@
+@import "~bootstrap/scss/bootstrap.scss";
+@import "./animations";
+@import "./index";
+@import "./stars";
+@import "./typography";
+
+#anchorLink {
+    // color: black;
+    color: rgb(5, 166, 172);
+}
+
+#cardSkill {
+    background-color: rgb(231, 250, 252);
+}
