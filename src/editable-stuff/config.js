@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/Me_copy.jpg"),
   imageSize: 375,
   message:
-    "I am Shannel Philp, a determined full stack developer who has just transitioned out of the oil and gas industry. I am currently a student at DigitalCrafts where I have learned full-stack development. I am looking for a new opportunity in a culture that fosters growth, learning and contribution to the big picture by utilizing my previous years of demonstrated performance experience creating order from chaos, independent analysis, problem-solving and strong organizational skills.",
+    "I am Shannel Philp, a determined full stack developer who has just transitioned out of the oil and gas industry. I have completed an immersive bootcamp at DigitalCrafts where I have learned full-stack development. I am looking for a new opportunity in a culture that fosters growth, learning and contribution to the big picture by utilizing my previous years of demonstrated performance experience creating order from chaos, independent analysis, problem-solving and strong organizational skills.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
@@ -68,7 +68,7 @@ const repos = {
   heading: "Recent Projects",
   gitHubUsername: "S-Philp", //i.e."johnDoe12Gh"
   reposLength: 0,
-  specificRepos: ["Recipes-Project", "frontend_project"],
+  specificRepos: ["Silverthread-Designs", "DevSpace", "Recipes-Project", "frontend_project"],
 };
 
 // Leadership SECTION
